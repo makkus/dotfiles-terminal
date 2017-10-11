@@ -1,0 +1,6 @@
+dev/spacemacs/.spacemacs.d/misc/config_mu4e.el filter=git-crypt diff=git-crypt
+dev/spacemacs/.spacemacs.d/snippets/mu4e-compose-mode/* filter=git-crypt diff=git-crypt
+extra/imapfilter/.imapfilter/* filter=git-crypt diff=git-crypt
+extra/isync/.mbsyncrc filter=git-crypt diff=git-crypt
+extra/beets/.config/beets/discogs_token.json filter=git-crypt diff=git-crypt
+extra/ssh/.ssh/* filter=git-crypt diff=git-crypt

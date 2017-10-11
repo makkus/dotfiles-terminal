@@ -1,0 +1,9 @@
+dotfiles:
+  pkg_mgr: auto
+  packages:
+    - emacs
+    - git
+    - zplug:
+       pkg_mgr: git
+       dest: ~/.zplug
+       repo: https://github.com/zplug/zplug
